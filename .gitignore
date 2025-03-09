@@ -173,3 +173,5 @@ cython_debug/
 # Ignore environment variables
 .env
 
+.env
+*.ipynb_checkpoints
